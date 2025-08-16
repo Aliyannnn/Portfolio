@@ -28,7 +28,7 @@ Hi! I’m **Aliyan Arif**, a passionate full-stack web developer building modern
 - GitHub: [@Aliyannnn](https://github.com/Aliyannnn)  
 - LinkedIn: [Aliyan Arif](https://www.linkedin.com/in/aliyan-arif-9b4179377/)  
 - Twitter: [@Aliyann712709](https://x.com/Aliyann712709)  
-- Portfolio: [Your Website](https://aliyan-portfolio-website.vercel.app/)
+- Portfolio: [Aliyan Arif | Full Stack Website Developer](https://aliyan-portfolio-website.vercel.app/)
 
 ---
 
