@@ -1,36 +1,35 @@
-# Pratik Kale | Web3 Developer Portfolio
+# Aliyan Arif | Full-Stack Web Developer
 
-Welcome to my personal portfolio website! I'm a Web3 and full-stack developer with a passion for building innovative solutions in the blockchain space. This portfolio showcases my journey, projects, and expertise in Web3 development.
+Hi! I’m **Aliyan Arif**, a passionate full-stack web developer building modern, scalable, and user-friendly web applications.
 
-## 👨‍💻 About Me
+## 🌟 About Me
 
-I'm a Solana-funded builder with deep expertise in:
-- DePIN (Decentralized Physical Infrastructure Networks)
-- SaaS Development
-- Blockchain Technologies
-- Full-Stack Development
+- Full-Stack Web Developer with expertise in **React, Next.js, Node.js, MongoDB, and TypeScript**  
+- Experienced in **frontend & backend development**, responsive design, and performance optimization  
+- Passionate about creating clean, modern, and interactive web apps  
 
 ## 🚀 Portfolio Features
 
-- **Modern Design**: Built with Next.js 15+ and Tailwind CSS for a sleek, responsive experience
-- **Dark/Light Mode**: Seamless theme switching for comfortable viewing
-- **Performance Optimized**: Fast loading times and smooth interactions
-- **SEO Friendly**: Optimized for search engines and social sharing
-- **Responsive**: Perfect viewing experience across all devices
+- Modern **Next.js 15+ & Tailwind CSS** design  
+- **Dark/Light mode** support  
+- SEO & performance optimized  
+- Fully **responsive** across devices  
 
 ## 🛠️ Tech Stack
 
-- Next.js 15+
-- TypeScript
-- Tailwind CSS
-- Inter & Fira Code fonts
-- Font Awesome icons
+- **Frontend:** React.js, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB  
+- **Languages:** JavaScript, TypeScript  
+- **Other Tools:** Git, Font Awesome / Lucide Icons, Inter & Fira Code fonts  
 
 ## 🌐 Connect With Me
 
-- Website: [kalehub.com](https://kalehub.com)
-- Twitter: [@pratikkale26](https://x.com/pratikkale26)
+- GitHub: [@Aliyannnn](https://github.com/Aliyannnn)  
+- LinkedIn: [Aliyan Arif](https://www.linkedin.com/in/aliyan-arif-9b4179377/)  
+- Twitter: [@Aliyann712709](https://x.com/Aliyann712709)  
+- Portfolio: [Your Website](https://your-website.com)  
 
 ---
 
-*Building the future of Web3, one block at a time.* 
+*Building modern web solutions, one app at a time.*
